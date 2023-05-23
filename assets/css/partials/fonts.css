@@ -1,4 +1,9 @@
 @font-face {
+  font-family: Pangolin;
+  src: url(../../fonts/Pangolin/Pangolin-Regular.ttf);
+}
+
+@font-face {
   font-family: RubikPuddles;
   src: url(../../fonts/RubikPuddles/RubikPuddles-Regular.ttf);
 }
